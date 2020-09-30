@@ -1,0 +1,13 @@
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.csprojAssemblyReference.cache
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.AssemblyInfoInputs.cache
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.AssemblyInfo.cs
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.csproj.CoreCompileInputs.cache
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.exe
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.deps.json
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.runtimeconfig.json
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.runtimeconfig.dev.json
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.dll
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\bin\Debug\netcoreapp3.1\tarea_progrmacion.pdb
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.dll
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.pdb
+C:\Users\cabra\source\repos\tarea_progrmacion\tarea_progrmacion\obj\Debug\netcoreapp3.1\tarea_progrmacion.genruntimeconfig.cache
